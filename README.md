@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rubenmaas
+- 👀 I’m interested in React Native, VueJS, PHP, Python, ML, AI
+- 🌱 I’m currently learning Scrum, Typescript
+- 📫 You can reach me on ruben@rootsteps.nl
