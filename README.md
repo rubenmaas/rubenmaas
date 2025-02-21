@@ -63,12 +63,13 @@ When I'm not architecting systems or writing code, you'll find me:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rubenmaas&show_icons=true&theme=radical)
 
-## Code Snippets That Spark Joy
+## Code Snippets
 
 Check out some of my code examples:
 - [TypeScript travel recommender](https://github.com/rubenmaas/rubenmaas/blob/main/src/travel-recommender.ts) - Smart travel recommendations using ML
 - [Python trend analyzer](https://github.com/rubenmaas/rubenmaas/blob/main/src/travel_trend_analyzer.py) - ML pipeline for travel trends analysis
 - [Deployment script](https://github.com/rubenmaas/rubenmaas/blob/main/scripts/deploy.sh) - Robust deployment automation with health checks
+- [Emission calculator](https://github.com/rubenmaas/rubenmaas/blob/main/src/emission-calculator.ts) - Flight emission calculations incorporating aircraft efficiency
 
 ---
 *"Building tomorrow's technology, one commit at a time"*
