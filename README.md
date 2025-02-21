@@ -1,6 +1,6 @@
 # 👋 Hi there! 
 
-I'm a passionate engineering leader in the travel tech industry with a deep interest in how technology can transform the way people experience travel. My journey combines technical expertise with a strong focus on data-driven decision making, helping teams build innovative solutions that make travel more accessible and enjoyable.
+I'm a passionate engineering leader in the travel tech industry with a deep interest in how technology can transform the way people experience travel. My journey combines technical expertise with a strong focus on data-driven decision making, helping teams build innovative solutions that make travel more accessible, enjoyable, and environmentally conscious.
 
 ## 🔧 Tech Stack & Expertise
 
@@ -37,7 +37,12 @@ I'm a passionate engineering leader in the travel tech industry with a deep inte
 
 ## Philosophy
 
-I believe in building systems that not only solve today's challenges but are adaptable enough to evolve with future needs. My approach combines practical engineering solutions with data-driven insights, always keeping the end-user experience at the forefront.
+I believe in building systems that not only solve today's challenges but are adaptable enough to evolve with future needs. My approach combines practical engineering solutions with data-driven insights, always keeping the end-user experience and environmental impact in mind. I'm passionate about:
+
+- 🌱 Developing energy-efficient systems and sustainable tech solutions
+- 🔋 Optimizing resource usage in cloud infrastructure
+- 💚 Promoting eco-friendly travel options through smart technology
+- ♻️ Building applications with environmental impact metrics
 
 ## Beyond Engineering
 
