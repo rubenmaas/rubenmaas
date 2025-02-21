@@ -66,9 +66,9 @@ When I'm not architecting systems or writing code, you'll find me:
 ## Code Snippets That Spark Joy
 
 Check out some of my code examples:
-- [TypeScript travel recommender](https://github.com/yourusername/code-examples/blob/main/src/travel-recommender.ts) - Smart travel recommendations using ML
-- [Python trend analyzer](https://github.com/yourusername/code-examples/blob/main/src/travel_trend_analyzer.py) - ML pipeline for travel trends analysis
-- [Deployment script](https://github.com/yourusername/code-examples/blob/main/scripts/deploy.sh) - Robust deployment automation with health checks
+- [TypeScript travel recommender](https://github.com/rubenmaas/rubenmaas/blob/main/src/travel-recommender.ts) - Smart travel recommendations using ML
+- [Python trend analyzer](https://github.com/rubenmaas/rubenmaas/blob/main/src/travel_trend_analyzer.py) - ML pipeline for travel trends analysis
+- [Deployment script](https://github.com/rubenmaas/rubenmaas/blob/main/scripts/deploy.sh) - Robust deployment automation with health checks
 
 ---
 *"Building tomorrow's technology, one commit at a time"*
