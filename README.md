@@ -1,75 +1,34 @@
-# Hi there! 
+# Hi, I'm Ruben
 
-I'm a passionate engineering leader in the travel tech industry with a deep interest in how technology can transform the way people experience travel. My journey combines technical expertise with a strong focus on data-driven decision making, helping teams build innovative solutions that make travel more accessible, enjoyable, and environmentally conscious.
+Engineering leader focused on building scalable, event-driven systems for travel technology. I design architectures that handle complex, high-transaction domains through domain-driven design principles and thoughtful system decomposition.
 
-## Tech Stack & Expertise
+## Technical Approach
 
-- **Core technologies:** 
-  - TypeScript & modern JavaScript ecosystems
-  - PHP (Laravel) for robust backend systems
-  - Python for data analysis & ML implementation
-- **Focus areas:** 
-  - Machine learning & AI integration
-  - Data analytics & business intelligence
-  - System architecture & scalability
-- **Engineering practice:** 
-  - Agile methodologies & team empowerment
-  - Technical strategy & architecture design
-  - Performance optimization & monitoring
+**Core Stack**
+- **Backend:** TypeScript, PHP (8.4+), modern async patterns
+- **Frameworks:** Next.js, Laravel (12.x+), React for rich UIs
+- **Data Layer:** PostgreSQL for structured data, MongoDB for flexible schemas, AstraDB for vector search
+- **Architecture:** Event-driven systems, domain-driven design, hexagonal architecture
 
-## What I Do
+**Focus Areas**
+- Event-driven architecture and asynchronous system design
+- Domain-driven decomposition of complex business logic
+- Building scalable systems that process millions of transactions
+- System design from ground-up with intentional architecture
+- High-performance data pipelines and real-time processing
 
-- Architect and guide the development of travel technology solutions that process millions of transactions
-- Lead the implementation of data-driven systems that enhance travel experiences
-- Pioneer ML/AI integration in travel products for personalized user experiences
-- Design scalable architectures using TypeScript & Laravel for high-traffic travel platforms
-- Foster engineering excellence through mentorship and knowledge sharing
-- Drive continuous improvement in development processes and team productivity
+## What I Build
 
-## Current Interests & Focus
+Scalable travel technology platforms with careful attention to system boundaries, event flows, and domain separation. I architect systems that remain maintainable and evolvable as business requirements change, using PostgreSQL for transactional consistency, MongoDB where schema flexibility matters, and vector databases for semantic search capabilities.
 
-- Leveraging machine learning to predict travel trends and optimize user experiences
-- Building robust data pipelines for real-time analytics in travel systems
-- Exploring large language models for enhanced travel search and recommendations
-- Creating sustainable and scalable engineering practices
-- Developing high-performance systems that handle peak travel seasons
-- Implementing efficient caching strategies for travel inventory systems
+Recent focus includes implementing event-sourcing patterns, designing robust async workflows, and optimizing query performance at scale. I'm particularly interested in how domain events can drive system integration without creating tight coupling.
 
-## Philosophy
+## Engineering Philosophy
 
-I believe in building systems that not only solve today's challenges but are adaptable enough to evolve with future needs. My approach combines practical engineering solutions with data-driven insights, always keeping the end-user experience and environmental impact in mind. I'm passionate about:
-
-- Developing energy-efficient systems and sustainable tech solutions
-- Optimizing resource usage in cloud infrastructure
-- Promoting eco-friendly travel options through smart technology
-- Building applications with environmental impact metrics
-
-## Beyond Engineering
-
-When I'm not architecting systems or writing code, you'll find me:
-- Making music on guitar, bass guitar, and exploring the deep tones of the cello
-- Capturing moments through photography
-- Blending technology with music production
-- Exploring new places and cultures through travel and photography
+I believe in building systems intentionally—not just making them work, but understanding *why* each architectural decision matters. This means investing time in domain discovery, designing clear boundaries between systems, and making tradeoffs explicit. I also prioritize developer experience; well-structured code and clear patterns reduce cognitive load and make systems easier to evolve.
 
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/rubenmaas/)
 - ruben.e.maas@gmail.com
-- Open for collaborations on innovative travel tech projects
-- Always looking for new opportunities to learn and grow
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rubenmaas&show_icons=true&theme=radical)
-
-## Code Snippets
-
-Check out some of my code examples:
-- [TypeScript travel recommender](https://github.com/rubenmaas/rubenmaas/blob/main/src/travel-recommender.ts) - Smart travel recommendations using ML
-- [Python trend analyzer](https://github.com/rubenmaas/rubenmaas/blob/main/src/travel_trend_analyzer.py) - ML pipeline for travel trends analysis
-- [Deployment script](https://github.com/rubenmaas/rubenmaas/blob/main/scripts/deploy.sh) - Robust deployment automation with health checks
-- [Emission calculator](https://github.com/rubenmaas/rubenmaas/blob/main/src/emission-calculator.ts) - Flight emission calculations incorporating aircraft efficiency
-
----
-*"Building tomorrow's technology, one commit at a time"*
+- Open to discussions on architecture, system design, and travel tech innovation
