@@ -29,6 +29,6 @@ I believe in building systems intentionally—not just making them work, but und
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/rubenmaas/)
+- [LinkedIn](https://www.linkedin.com/in/rubenemaas/)
 - ruben.e.maas@gmail.com
 - Open to discussions on architecture, system design, and travel tech innovation
